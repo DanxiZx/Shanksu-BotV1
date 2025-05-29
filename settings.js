@@ -26,7 +26,7 @@ global.owner = [
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
 global.mods = []
-global.suittag = ['18093978365'] 
+global.suittag = ['18493907272'] 
 global.prems = []
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
@@ -64,7 +64,7 @@ global.gp1 = 'https://chat.whatsapp.com/BnaMTKnuJeR2YDFrHXiKP3'
 global.comunidad1 = 'https://chat.whatsapp.com/BnaMTKnuJeR2YDFrHXiKP3'
 global.channel = 'https://whatsapp.com/channel/0029VbAoNZxDZ4Lk1WmUyZ3I'
 global.channel2 = 'https://whatsapp.com/channel/0029VbAoNZxDZ4Lk1WmUyZ3I'
-global.md = 'https://github.com/The-King-Destroy/Yuki_Suou-Bot'
+global.md = 'https://github.com/DanxiZx/Shanksu-BotV1'
 global.correo = 'marcelinolenny81@gmail.com'
 global.cn ='https://whatsapp.com/channel/0029VbAoNZxDZ4Lk1WmUyZ3I';
 
