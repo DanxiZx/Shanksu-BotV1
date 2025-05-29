@@ -8,20 +8,20 @@ let handler = async (m, { conn, args }) => {
     let totalCommands = Object.values(global.plugins).filter((v) => v.help && v.tags).length
     
     let txt = `
-𝙃𝙤𝙡𝙖 𝙎𝙤𝙮!  *${botname}*  (❤️)
-𝘼𝙦𝙪𝙞 𝙏𝙞𝙚𝙣𝙚𝙨 𝙇𝙖 𝙇𝙞𝙨𝙩𝙖 𝘿𝙚 𝘾𝙤𝙢𝙢𝙖𝙣𝙙𝙤𝙨
-╭┈─────────────────────
-│🙎🏻‍♂️ Cliente » @${userId.split('@')[0]}
-│🚀 Modo » Publico
-│🤖 Bot » ${(conn.user.jid == global.conn.user.jid ? 'Principal 🅥' : 'Prem Bot 💎')}
-│⏳ Activada » ${uptime}
-│👤 Usuarios » ${totalreg}
-│📝 Comandos » ${totalCommands}
-│🔰 Baileys » Multi Device
-╰──────────────────────
+   𝙃𝙤𝙡𝙖 𝙎𝙤𝙮!  *${botname}*  (❤️)
+   𝘼𝙦𝙪𝙞 𝙏𝙞𝙚𝙣𝙚𝙨 𝙇𝙖 𝙇𝙞𝙨𝙩𝙖 𝘿𝙚 𝘾𝙤𝙢𝙢𝙖𝙣𝙙𝙤𝙨
+ ╭┈─────────────────────
+ │🙎🏻‍♂️ Cliente » @${userId.split('@')[0]}
+ │🚀 Modo » Publico
+ │🤖 Bot » ${(conn.user.jid == global.conn.user.jid ? 'Principal 🅥' : 'Prem Bot 💎')}
+ │⏳ Activada » ${uptime}
+ │👤 Usuarios » ${totalreg}
+ │📝 Comandos » ${totalCommands}
+ │🔰 Baileys » Multi Device
+ ╰──────────────────────
 
-𝗖𝗿𝗲𝗮 𝗨𝗻 𝗦𝘂𝗯-𝗯𝗼𝘁 𝗨𝘀𝗮𝗻𝗱𝗼 𝗧𝘂 𝗧𝗲𝗹𝗲𝗳𝗼𝗻𝗼 𝗖𝗼𝗻 𝗤𝗥 𝗼𝗵 𝗖𝗼𝗱𝗲 🤖
-𝗦𝗶 𝗘𝗹 𝗕𝗼𝘁 𝗣𝗿𝗶𝗻𝗰𝗶𝗽𝗮𝗹 𝗘𝘀𝘁𝗮 𝗗𝗲𝘀𝗰𝘁𝗶𝘃𝗮𝗱𝗼 𝗟𝗼𝘀 𝗦𝘂𝗯-𝗯𝗼𝘁 𝗜𝗴𝘂𝗮𝗹 😄
+ 𝗖𝗿𝗲𝗮 𝗨𝗻 𝗦𝘂𝗯-𝗯𝗼𝘁 𝗨𝘀𝗮𝗻𝗱𝗼 𝗧𝘂 𝗧𝗲𝗹𝗲𝗳𝗼𝗻𝗼 𝗖𝗼𝗻 𝗤𝗥 𝗼𝗵 𝗖𝗼𝗱𝗲 🤖
+ 𝗦𝗶 𝗘𝗹 𝗕𝗼𝘁 𝗣𝗿𝗶𝗻𝗰𝗶𝗽𝗮𝗹 𝗘𝘀𝘁𝗮 𝗗𝗲𝘀𝗰𝘁𝗶𝘃𝗮𝗱𝗼 𝗟𝗼𝘀 𝗦𝘂𝗯-𝗯𝗼𝘁 𝗜𝗴𝘂𝗮𝗹 😄
 
             『 𝗜𝗡𝗙𝗢-𝗕𝗢𝗧🖥️ 』
 
@@ -269,7 +269,7 @@ let handler = async (m, { conn, args }) => {
 ➤ *#translate • #traducir • #trad*
 > ✦ Traduce palabras en otros idiomas.
 
-         『 𝗣𝗘𝗥𝗙𝗜𝗟𝗦🆔 』
+          『 𝗣𝗘𝗥𝗙𝗜𝗟𝗦🆔 』
 
 ᯽ Comandos de perfil para ver, configurar y comprobar estados de tu perfil.
 ➤ *#reg • #verificar • #register*
@@ -303,7 +303,7 @@ let handler = async (m, { conn, args }) => {
 ➤ *#confesiones • #confesar*
 > ✦ Confiesa tus sentimientos a alguien de manera anonima.
 
-           『 𝗚𝗥𝗨𝗣𝗢𝗦🏳️
+            『 𝗚𝗥𝗨𝗣𝗢𝗦🏳️
 
 ᯽ Comandos de grupos para una mejor gestión de ellos.
 ➤ *#hidetag*
@@ -369,7 +369,7 @@ let handler = async (m, { conn, args }) => {
 ➤ *#listnum • #kicknum*
 > ✦ Elimine a usuario por el prefijo de país.
 
-         『 𝗔𝗡𝗜𝗠𝗘⛩️ 』
+          『 𝗔𝗡𝗜𝗠𝗘⛩️ 』
 
 ᯽ Comandos de reacciones de anime.
 ➤ *#angry • #enojado* + <mencion>
