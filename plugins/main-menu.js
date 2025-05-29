@@ -11,7 +11,7 @@ let handler = async (m, { conn, args }) => {
 𝙃𝙤𝙡𝙖 𝙎𝙤𝙮!  *${botname}*  (❤️)
 𝘼𝙦𝙪𝙞 𝙏𝙞𝙚𝙣𝙚𝙨 𝙇𝙖 𝙇𝙞𝙨𝙩𝙖 𝘿𝙚 𝘾𝙤𝙢𝙢𝙖𝙣𝙙𝙤𝙨
 ╭┈─────────────────────
-│👨🏻‍🦱 Cliente » @${userId.split('@')[0]}
+│🙎🏻‍♂️ Cliente » @${userId.split('@')[0]}
 │🚀 Modo » Publico
 │🤖 Bot » ${(conn.user.jid == global.conn.user.jid ? 'Principal 🅥' : 'Prem Bot 💎')}
 │⏳ Activada » ${uptime}
