@@ -6,7 +6,7 @@
 const handler = async (m, { isOwner, isAdmin, conn, text, participants, args, command, usedPrefix }) => {
   if (usedPrefix == 'a' || usedPrefix == 'A') return;
 
-  const customEmoji = global.db.data.chats[m.chat]?.customEmoji || '🍫';
+  const customEmoji = global.db.data.chats[m.chat]?.customEmoji || '🦊';
   m.react(customEmoji);
 
   if (!(isAdmin || isOwner)) {
@@ -20,7 +20,7 @@ const handler = async (m, { isOwner, isAdmin, conn, text, participants, args, co
   for (const mem of participants) {
     teks += `┊${customEmoji} @${mem.id.split('@')[0]}\n`;
   }
-  teks += `╰⸼ ┄ ┄ ┄ ─  ꒰  ׅ୭ *${vs}* ୧ ׅ ꒱  ┄  ─ ┄ ⸼`;
+  teks += `╰⸼ ❤️❤️❤️❤️ ꒰  ׅ୭ *${vs}* ୧ ׅ ꒱ ❤️❤️❤️❤️ ⸼`;
 
   conn.sendMessage(m.chat, { text: teks, mentions: participants.map((a) => a.id) });
 };
