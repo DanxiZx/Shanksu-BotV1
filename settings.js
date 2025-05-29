@@ -55,8 +55,8 @@ global.etiqueta = 'ⁱᵃᵐ|𝐃𝐚𝐧𝐢𝐱𝐬 𝐑𝐃༆'
 global.moneda = '¥enes'
 global.welcom1 = '᯽ 𝙴𝚍𝚒𝚝𝚊 𝙲𝚘𝚗 𝙴𝚕 𝙲𝚘𝚖𝚊𝚗𝚍𝚘 𝚂𝚎𝚝𝚠𝚎𝚕𝚌𝚘𝚖𝚎🗨️'
 global.welcom2 = '᯽ 𝙴𝚍𝚒𝚝𝚊 𝙲𝚘𝚗 𝙴𝚕 𝙲𝚘𝚖𝚊𝚗𝚍𝚘 𝚂𝚎𝚝𝚋𝚢𝚎👋🏻'
-global.banner = 'https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1742678744381.jpeg'
-global.avatar = 'https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1742678797993.jpeg'
+global.banner = 'https://files.catbox.moe/8121rq.jpg'
+global.avatar = 'https://files.catbox.moe/ecdb44.jpg'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
