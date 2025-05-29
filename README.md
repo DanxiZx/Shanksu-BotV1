@@ -1,6 +1,6 @@
 <h1 align="center">✦ 𝙎𝙃𝘼𝙉𝙆𝙎𝙐-𝘽𝙊𝙏𝙑1 ✦</h1>
 
- <img src= "https://files.catbox.moe/om9jai.jpg">
+ <img src= "https://files.catbox.moe/fwv0js.jpg">
     </p>
 
 ### **`❕️ Información importante`**
