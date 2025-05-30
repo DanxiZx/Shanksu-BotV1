@@ -53,9 +53,9 @@ global.etiqueta = 'ⁱᵃᵐ|𝐃𝐚𝐧𝐢𝐱𝐬 𝐑𝐃༆'
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
 global.moneda = '¥enes'
-global.welcom1 = '᯽ 𝙴𝚍𝚒𝚝𝚊 𝙲𝚘𝚗 𝙴𝚕 𝙲𝚘𝚖𝚊𝚗𝚍𝚘 𝚂𝚎𝚝𝚠𝚎𝚕𝚌𝚘𝚖𝚎🗨️'
-global.welcom2 = '᯽ 𝙴𝚍𝚒𝚝𝚊 𝙲𝚘𝚗 𝙴𝚕 𝙲𝚘𝚖𝚊𝚗𝚍𝚘 𝚂𝚎𝚝𝚋𝚢𝚎👋🏻'
-global.banner = 'https://files.catbox.moe/bqienf.jpg'
+global.welcom1 = '᯽ 𝙴𝚍𝚒𝚝𝚊 𝙲𝚘𝚗 𝙴𝚕 𝙲𝚘𝚖𝚊𝚗𝚍𝚘 𝚂𝚎𝚝𝚠𝚎𝚕𝚌𝚘𝚖𝚎 ✎'
+global.welcom2 = '᯽ 𝙴𝚍𝚒𝚝𝚊 𝙲𝚘𝚗 𝙴𝚕 𝙲𝚘𝚖𝚊𝚗𝚍𝚘 𝚂𝚎𝚝𝚋𝚢𝚎 ✎'
+global.banner = '	https://files.catbox.moe/bqienf.jpg'
 global.avatar = 'https://files.catbox.moe/ecdb44.jpg'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
